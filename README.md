@@ -6,5 +6,7 @@
 
 # 恋するハッカソン
 
-- [ショートヘア](./images/cod.short.py) 
+- [ショートヘア](./images/cod.short.py)
+- [ロングヘア](./images/cod.longer.py)
+
 提出用
